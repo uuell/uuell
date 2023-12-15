@@ -1,6 +1,6 @@
 							      Hi there! King Here👋
 
-						🌱 I’m currently learning Full Stack Development
+						🌱 I’m currently learning Computer Engineering
 						
 	  						 Let's connect and have a chat 💬
 	  
