@@ -96,7 +96,7 @@ ___
 </a>
 
 <!-- Top Languages -->
-<a href="https://github.com/uuell" align="right">
+<a href="https://github.com/uuell" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uuell&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=171717&locale=en" alt="Top Languages" />
 </a>
 
