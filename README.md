@@ -86,17 +86,17 @@ ___
 <h3 align="center">Badges</h3>
 <br>
 <!-- GitHub Streak Stats -->
-<a href="http://www.github.com/uuell">
+<!-- <a href="http://www.github.com/uuell">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=uuell&stroke=ffffff&background=171717&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
-</a>
+</a> -->
 
 <!-- GitHub Stats -->
 <a href="http://www.github.com/uuell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uuell&count_private=true&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=171717&show_icons=true" alt="uuell's GitHub stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=uuell&count_private=true&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=171717&show_icons=true" alt="uuell's GitHub stats" />
 </a>
 
 <!-- Top Languages -->
-<a href="https://github.com/uuell" align="left">
+<a href="https://github.com/uuell" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uuell&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=14b8a6&bg_color=171717&locale=en" alt="Top Languages" />
 </a>
 
